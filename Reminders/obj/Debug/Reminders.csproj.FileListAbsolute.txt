@@ -1,0 +1,17 @@
+c:\users\садыковаа\source\repos\Reminders\Reminders\bin\Debug\Reminders.exe.config
+c:\users\садыковаа\source\repos\Reminders\Reminders\bin\Debug\Reminders.exe
+c:\users\садыковаа\source\repos\Reminders\Reminders\bin\Debug\Reminders.pdb
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\MainWindow.g.cs
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Page1.g.cs
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\App.g.cs
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders_MarkupCompile.cache
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders_MarkupCompile.lref
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\MainWindow.baml
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Page1.baml
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.g.resources
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.cache
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.exe
+c:\users\садыковаа\source\repos\Reminders\Reminders\obj\Debug\Reminders.pdb
